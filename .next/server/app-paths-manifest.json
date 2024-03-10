@@ -1,0 +1,7 @@
+{
+  "/(pages)/(home)/page": "app/(pages)/(home)/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(pages)/seminars/page": "app/(pages)/seminars/page.js",
+  "/(pages)/therapy-sessions/page": "app/(pages)/therapy-sessions/page.js",
+  "/(pages)/about-us/page": "app/(pages)/about-us/page.js"
+}
